@@ -19,8 +19,8 @@ To write a Python program to join tuples if they have a similar initial element.
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 t = eval(input())
 print("Initially the tuple is :", t)
 d = {}
