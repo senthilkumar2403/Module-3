@@ -15,8 +15,8 @@ To write a Python program to create a tuple containing all multiples of 5 up to 
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 N = int(input())
 multiples_of_5 = tuple(i for i in range(5, N, 5))
 print(multiples_of_5)
