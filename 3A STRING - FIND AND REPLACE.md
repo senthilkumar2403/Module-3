@@ -17,8 +17,8 @@ To write a Python program to check whether an entered string is a palindrome or 
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 s = input()
 n = len(s)
 is_palindrome = True
