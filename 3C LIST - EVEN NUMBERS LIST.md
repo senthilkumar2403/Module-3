@@ -17,8 +17,8 @@ To write a non-parameterized Python function to print the student names in the l
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 def sortlist():
     l = eval(input())
     l.sort()
